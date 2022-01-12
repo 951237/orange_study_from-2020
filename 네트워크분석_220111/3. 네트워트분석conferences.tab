@@ -1,0 +1,45 @@
+authors	papers	type	abbrev	name
+continuous	continuous	conference journal	string	string
+			meta	meta
+28.5	16.5	journal	JETAI	J of Experimental and Theoretical AI
+214.71429	155.71429	conference	AAAI	Nat. Conf. on AI
+312.47368	240.36842	conference	IJCAI	Intl. Joint Conf on AI
+56.54054	52.54054	journal	AI	Artificial Intelligence
+63.66667	40.48148	journal	AIM	AI Magazine
+57.33333	40.55556	conference	AIPS	AI in Planning Systems
+33.78571	21.0	journal	JAIR	J. of AI Research
+53.6	25.46667	journal	IJAIT	Inlt. J on AI Tools
+148.6	77.13333	conference	ICTAI	Intl. Conf. on Tools with AI
+67.38462	31.92308	journal	APIN	Applied Intelligence
+49.26316	50.36842	conference	CADE	Conf. on Automated Deduction
+53.55556	38.0	conference	JELIA	Logics in AI
+64.35294	41.23529	journal	AMAI	Annals of Mathematics and AI
+34.5	16.2	journal	DATAMINE	DM and KD
+97.2	42.6	conference	SDM	SIAM Intl. Conf on DM
+163.30769	96.76923	conference	KDD	KD and DM
+111.4	60.6	conference	PKDD	Principles of KD and DM
+105.26316	85.94737	conference	ICML	Intl. Conf. on ML
+52.85714	39.19048	journal	ML	Machine Learning
+71.33333	65.33333	conference	ECML	Eu. Conf. on ML
+105.14286	56.71429	journal	JMLR	J of ML Research
+57.0	30.11111	journal	IDA-J	Intelligent Data Analysis
+98.4	47.0	conference	IDA	Intelligent Data Analysis
+88.55556	48.0	conference	DIS	Discovery Science
+20.5	11.25	conference	KDID	KD in Inductive Databases
+52.68421	57.15789	conference	UAI	Uncertainty in AI
+49.8	36.65	journal	IJAR	Approximate Reasoning
+84.83333	34.05556	journal	ARTMED	AI in Medicine
+80.6	30.3	conference	AIME	AI in Medicine in Europe
+92.65	45.7	journal	IJPRAI	Pattern Recognition and AI
+247.8	136.4	conference	ICANN	Intl. Conf. on ANN
+161.73684	99.26316	journal	NN	Neural Networks
+212.0	101.0	conference	IDEAL	Intelligent Data Engineering and Automated Learning
+96.78571	63.07143	conference	ISMIS	Intl. Symp. on Methodologies for Intelligent Systems
+31.21053	17.26316	journal	AICOM	AI Communications
+206.53333	139.26667	conference	ECAI	Eu. Conf. on AI
+63.6	60.9	journal	AAI	Applied AI
+84.81818	67.0	journal	EXPERT	IEEE Intelligent Systems
+61.75	43.625	conference	EWCBR	Eu. Work. CBR
+27.55	14.7	journal	AIR	AI Review
+47.3	36.8	conference	ICAIL	Intl. Conf. on AI and Law
+15.35714	13.42857	journal	AIL	AI and Law
