@@ -6,9 +6,9 @@
 ### textmining_JFK.ows
 - 케네디 연설문 분석한 워크플로
 - EDA 워크플로
-	![](./images/2022-01-20-22-32-26.png)
+![](./images/2022-01-20-22-32-26.png)
 - Model 워크플로
-	![](./images/2022-01-20-22-33-20.png)
+![](./images/2022-01-20-22-33-20.png)
 
 ### textmining_report.ows
 - 대학원 과제 워크플로우
